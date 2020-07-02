@@ -1,0 +1,265 @@
+<!doctype html>
+<head>
+    <base href="/images/">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="language" content="en" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <link rel="stylesheet" type="text/css" href="/css/main.css" />
+    <script type="text/javascript" src="/assets/36ecd175/jquery.js"></script>
+<script type="text/javascript" src="/js/jquery.min.js"></script>
+<script type="text/javascript" src="/js/jquery.jscrollpane.min.js"></script>
+<script type="text/javascript" src="/js/scripts.js"></script>
+<title>Crown Flour Mills - Expertise</title>
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+    </head>
+<body class="">
+    <div class="home-slider">
+    <div class="item">
+        <img src="banners/banner-1.jpg" alt="" />
+        <div class="slider-content">
+            <img src="crown-banner.png" alt="" />
+                <h1 style="margin-top:50px;font-family: champagne-bold;">FEEDING THE NATION <strong>HEALTHY</strong>, <br/><strong>NUTRITIOUS</strong> AND <strong>GREAT</strong> TASTING FLOUR <br/>AND MIXES <strong>SINCE 1952.</strong></h1>
+        </div>
+    </div>
+    <div class="item">
+        <img src="banners/banner-2.jpg" alt="" />
+        <div class="slider-content">
+            <img src="crown-banner.png" alt="" />
+            <section>
+<!--                <span>Our innovation and our quality<br/> are
+                    your products <br/>and your success</span>-->
+            </section>
+        </div>
+        <div class="second-title">
+            <h1 style="font-family: champagne-bold;">Our <strong>innovation</strong> and our <br/><strong>quality</strong> are
+                your products<br> and your success</h1>
+        </div>
+    </div>
+</div>    <div id="page">
+        <!--Header With Menu-->
+        <div id="header" class="">
+    <div class="grid clearfix" style="width:1250px">
+        <div class="logo">
+            <a href="/">
+                <img src="logo.png" alt="Crown Floor Mills"/>
+            </a>
+        </div>
+        <div class="main-menu" style="width:1050px">
+            <ul id="yw0">
+<li><a href="/about">About Us</a></li>
+<li class="active"><a href="/expertise">Our Expertise</a></li>
+<li><a href="/product">Our Products</a></li>
+<li><a href="/service">Our Services</a></li>
+<li><a href="http://www.mansourtradingcompany.com/careers/">Careers</a></li>
+<li><a href="http://www.crownflourmills.com/askourexperts.html">Ask Our Experts</a></li>
+<li><a href="/contact">Contact Us</a></li>
+<li><a href="http://www.crownbake.co/">Crown BAKE</a></li>
+<li id="fbIcon"><a target="_blank" href="https://www.facebook.com/crownflourmills/"><img src="icons/fb-icon-mobile.png" /></a></li>
+<li id="fbIcon"><a target="_blank" href="http://www.crownbake.co/"><img src="icons/crownlogo.png" /></a></li>
+</ul>        </div>
+        <div class="social" style="width:55px">
+            <a href="https://www.facebook.com/crownflourmills" target="_blank">
+                <img src="icons/fb-icon.png" alt="Facebook Crown Floor Mills"/>
+            </a>
+             <a href="http://www.crownbake.co/" target="_blank">
+                <img src="icons/crownlogo.png" alt="Crown Bake"/>
+            </a>
+        </div>
+        <a class="menu-icon" href="javascript: void(0);">
+<!--            <img src="icons/menu-icon.png" alt="Crown Floor Mills"/>-->
+        </a>
+    </div>
+</div>
+
+        <!--Body Content-->
+        <div id="content">
+	<div class="expertise-page">
+
+    <div class="full-screen">
+        <div class="mid-screen title-section">
+            <div class="container clearfix">
+                <div class="half-grid right">
+                    <h1>
+                        expertise <br>
+                        & know how
+                    </h1>
+                </div>
+            </div>
+        </div>
+        <div id="R&D" class="mid-screen innovations-section">
+            <div class="container clearfix">
+                <div class="half-grid left">
+                    <div class="data-holder">
+                        <img src="icons/wheat-icon.png" alt="" />
+                        <br>
+                        <h2>
+                            r&d and innovations
+                        </h2>
+                        <div class="clear"></div>
+                        <article>
+                            <p>
+                                <span>
+                                    " We strive to constantly generate excellent quality products that meet our highly valued customers' satisfaction through the commitment of our extremely motivated staff."
+                                </span>
+                            </p>
+                            <br>
+                            <p>
+                                Playing a strong role in Crown Flour Mill’s regional success is our commitment to providing the market with alternative and innovative products. 
+                            </p>
+                            <br>
+                            <p>
+                                Leveraging the expertise of our team of researchers, laboratory analysts and flour experts, we craft pioneering formulas that meet the demands of the market and that serve our customers’ diverse requirements.
+                            </p>
+                            <br>
+                            <p>
+                                New products are continually under development and released to market after testing and refinement.
+                            </p>
+                        </article>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="safety" class="full-screen">
+        <div class="mid-screen quality-section">
+            <div class="container clearfix">
+                <div class="half-grid right">
+                    <div class="data-holder">
+                        <img src="icons/quality-icon.png" alt="" />
+                        <br>
+                        <h2 style="margin-top:-15px;">
+                            Quality, safety <br>
+                            <span>& regulations </span>
+                        </h2>
+                        <div class="clear"></div>
+                        <article>
+                            <p>
+                                <span>
+                                    " We don’t find customers for our products, 
+                                    we find products for our customers."
+                                </span> 
+                            </p>   
+                            <br>
+                            <p>
+                                Thanks to our strong distribution network, we are able to serve customers ranging from one-store shops to multi-unit chains, in our local market of Lebanon and across the entire Middle East and North Africa region.
+                            </p>
+                            <br>
+                            <p>
+                                Quality, consistency, strict hygiene, added value and flexibility are among the attributes that keep our customers returning to us. Together we build partnerships that deliver satisfaction guaranteed.
+                            </p>
+<p><a href="../pdf/QMS-I-01-01-Quality-Policy-and-Objectives-(AR-EN).pdf" target="_blank"><img src="exp1.jpg" style="width:140px; margin-top:25px;"/></a><a href="../pdf/QMS-I-08-00-Food-Safety-Policy-and-Objectives-EN-AR-(F).pdf" target="_blank"><img src="exp2.jpg" style="width:140px; margin-left:25px; margin-top:25px;"/></a><a href="../pdf/mission-and-vision-CFM.pdf" target="_blank"><img src="mission.jpg" style="width:140px; margin-left:-8px; margin-top:25px;"/></a><a href="../pdf/Certificate-FSM42729-20170807-ISO-22005.pdf" target="_blank"><img src="food_safety_mgmt.jpg" style="width:140px; margin-left:-8px; margin-top:25px;"/></a></p>
+                        </article>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="mid-screen quality-guarantee-section">
+            <div class="container clearfix">
+                <div class="half-grid right">
+                    <div class="notification">
+                        <div class="info-holder">
+                            <img src="icons/quality-logo.png" alt="" />
+                            <br>
+                            <h2>
+                                yOur QualiTy
+                                <br>
+                                GuaranTEE
+                            </h2>
+                            <div class="clear"></div>
+                            <article>
+                                <p>
+                                    When you purchase a Crown Flour Mills product, you are assured of quality, with every step of the production process, from sourcing to milling and delivery, overseen with rigorous attention to detail and fully compliant with international health and safety standards.
+                                </p>
+                            </article>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="guarantee" class="full-screen tips">
+        <div class="mid-screen">
+            <div class="container clearfix">
+                <div class="half-grid right">
+                    <div class="tips-holder">
+                        <h2>How we ensure <br>a consistent <br><span>quality product</span></h2>
+                        <ul>
+                            <li>Selecting and negotiating the finest quality from our wheat suppliers.</li>
+                            <li>Strict measures are applied during the loading of the wheat to ensure that quality parameters have been met. </li>
+                            <li>Following a control process as the load is discharged at Beirut Port and during its journey to the mill.</li>
+                            <li>State-of-the-art milling machinery controlled by automation software (PLC) ensures that each batch is milled according to predefined recipes.</li>
+                            <li>A full traceability process is in place with proper checks and balances guaranteeing that the product is always consistent and meets predefined quality parameters.</li>
+                            <li>Crown Flour Mill’s highly qualified personnel monitors and fine tunes the process for optimal results.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="mid-screen">
+
+        </div>
+    </div>
+
+</div></div><!-- content -->
+
+        <!--Footer-->
+        <div id="footer">
+    <div class="grid">
+        <div class="full clearfix">
+            <ul class="footer-menu">
+                <li class="web">
+                    <a href="javascript: void(0)">WEBMAIL</a>
+                    <div class="webmail">
+                        <div class="holder">
+                            <form action="http://www.crownflourmills.com:2095/login/" method="post" target="_blank" class="clearfix">
+                                <input type="text" name="user" placeholder="User name"/>
+                                <input type="password" name="pass" placeholder="Password"/>
+                                <input type="submit" value="Submit" class="button"/>
+                            </form>
+                        </div>
+                    </div>
+                </li>
+<!--                <li><a href="/site/faq">FAQs</a></li>-->
+                <li><a href="/site/sitemap">SITEMAP</a></li>
+            </ul>
+
+            <div class="copyrights">
+                Designed By <a href="http://cleartag.com" target="_blank">Cleartag</a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- footer -->    </div>
+    <script>
+        (function(i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function() {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-80734457-37', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+
+<script type="text/javascript" src="/js/slick.min.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+script.homeSlider()
+});
+/*]]>*/
+</script>
+</body>
+</html>

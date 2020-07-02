@@ -1,0 +1,221 @@
+<!doctype html>
+<head>
+    <base href="/images/">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="language" content="en" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <link rel="stylesheet" type="text/css" href="/css/main.css" />
+    <script type="text/javascript" src="/assets/36ecd175/jquery.js"></script>
+<script type="text/javascript" src="/js/jquery.min.js"></script>
+<script type="text/javascript" src="/js/jquery.jscrollpane.min.js"></script>
+<script type="text/javascript" src="/js/scripts.js"></script>
+<title>Crown Flour Mills - Contact</title>
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+    </head>
+<body class="">
+    <div class="home-slider">
+    <div class="item">
+        <img src="banners/banner-1.jpg" alt="" />
+        <div class="slider-content">
+            <img src="crown-banner.png" alt="" />
+                <h1 style="margin-top:50px;font-family: champagne-bold;">FEEDING THE NATION <strong>HEALTHY</strong>, <br/><strong>NUTRITIOUS</strong> AND <strong>GREAT</strong> TASTING FLOUR <br/>AND MIXES <strong>SINCE 1952.</strong></h1>
+        </div>
+    </div>
+    <div class="item">
+        <img src="banners/banner-2.jpg" alt="" />
+        <div class="slider-content">
+            <img src="crown-banner.png" alt="" />
+            <section>
+<!--                <span>Our innovation and our quality<br/> are
+                    your products <br/>and your success</span>-->
+            </section>
+        </div>
+        <div class="second-title">
+            <h1 style="font-family: champagne-bold;">Our <strong>innovation</strong> and our <br/><strong>quality</strong> are
+                your products<br> and your success</h1>
+        </div>
+    </div>
+</div>    <div id="page">
+        <!--Header With Menu-->
+        <div id="header" class="">
+    <div class="grid clearfix" style="width:1250px">
+        <div class="logo">
+            <a href="/">
+                <img src="logo.png" alt="Crown Floor Mills"/>
+            </a>
+        </div>
+        <div class="main-menu" style="width:1050px">
+            <ul id="yw0">
+<li><a href="/about">About Us</a></li>
+<li><a href="/expertise">Our Expertise</a></li>
+<li><a href="/product">Our Products</a></li>
+<li><a href="/service">Our Services</a></li>
+<li><a href="http://www.mansourtradingcompany.com/careers/">Careers</a></li>
+<li><a href="http://www.crownflourmills.com/askourexperts.html">Ask Our Experts</a></li>
+<li class="active"><a href="/contact">Contact Us</a></li>
+<li><a href="http://www.crownbake.co/">Crown BAKE</a></li>
+<li id="fbIcon"><a target="_blank" href="https://www.facebook.com/crownflourmills/"><img src="icons/fb-icon-mobile.png" /></a></li>
+<li id="fbIcon"><a target="_blank" href="http://www.crownbake.co/"><img src="icons/crownlogo.png" /></a></li>
+</ul>        </div>
+        <div class="social" style="width:55px">
+            <a href="https://www.facebook.com/crownflourmills" target="_blank">
+                <img src="icons/fb-icon.png" alt="Facebook Crown Floor Mills"/>
+            </a>
+             <a href="http://www.crownbake.co/" target="_blank">
+                <img src="icons/crownlogo.png" alt="Crown Bake"/>
+            </a>
+        </div>
+        <a class="menu-icon" href="javascript: void(0);">
+<!--            <img src="icons/menu-icon.png" alt="Crown Floor Mills"/>-->
+        </a>
+    </div>
+</div>
+
+        <!--Body Content-->
+        <div id="content">
+	<div class="contact-page">
+    <div class="banner">
+        <div class="grid">
+            <div class="full">
+                <div class="banner-holder">
+                    <h1>We’re always <br><span>here for you</span></h1>
+                    <article>
+                        Whatever your needs or requirements, <br>
+                        we value the opportunity to discuss them further.<br> Contact us to arrange a meeting and let us show you how we can give rise to your success.
+                    </article>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="full-screen clearfix">
+        <div class="mid-screen contact-info">
+            <div class="container clearfix">
+                <div class="half-grid right">
+                    <article>
+                        <p>Crown Flour Mills</p>
+                        <p>446 Corniche du Fleuve. Beirut 2069-6814 Lebanon</p>
+                        <p>T: +961 1 443440 - +961 1 448408 </p>
+                        <p>F: +961 1 562 173</p>
+                        <p>E: <a href="mailto:info@crownflourmills.com">info@crownflourmills.com</a></p>
+                    </article>
+                </div>
+            </div>
+        </div>
+        <div class="mid-screen contact-form">
+            <div class="container clearfix">
+                <div class="half-grid left">
+                    <div class="data-holder">
+                        <h2>Contact <span>Us</span></h2>
+                                                <form id="contact-form" action="/contact" method="post">                        <div class="input-holder">
+                            <input class="effect" name="Contact[fname]" id="Contact_fname" type="text" maxlength="150" />                            <label for="Contact_fname" class="required">First Name <span class="required">*</span></label>                            <span class="focus-border"></span>
+                            <div class="error"></div>
+                        </div>
+                        <div class="input-holder">
+                            <input class="effect" name="Contact[lname]" id="Contact_lname" type="text" maxlength="150" />                            <label for="Contact_lname" class="required">Last Name <span class="required">*</span></label>                            <span class="focus-border"></span>
+                            <div class="error"></div>
+                        </div>
+                        <div class="input-holder">
+                            <select name="Contact[country]" id="Contact_country">
+<option value="">Country</option>
+<option value="Egypt">Egypt</option>
+<option value="Iraq">Iraq</option>
+<option value="Saudi Arabia">Saudi Arabia</option>
+<option value="Syria">Syria</option>
+<option value="Jordan">Jordan</option>
+<option value="United Arab Emirates">United Arab Emirates</option>
+<option value="Lebanon">Lebanon</option>
+<option value="Oman">Oman</option>
+<option value="Kuwait">Kuwait</option>
+<option value="Qatar">Qatar</option>
+<option value="Others">Others</option>
+</select>                            <div class="error"></div>
+                        </div>
+                        <div class="input-holder">
+                            <input class="effect" name="Contact[company]" id="Contact_company" type="text" />                            <label for="Contact_company" class="required">Company <span class="required">*</span></label>                            <span class="focus-border"></span>
+                            <div class="error"></div>
+                        </div>
+                        <div class="input-holder">
+                            <input class="effect" name="Contact[email]" id="Contact_email" type="text" maxlength="150" />                            <label for="Contact_email" class="required">Email Address <span class="required">*</span></label>                            <span class="focus-border"></span>
+                            <div class="error"></div>
+                        </div>
+                        <div class="input-holder">
+                            <input class="effect" name="Contact[phone]" id="Contact_phone" type="text" maxlength="30" />                            <label for="Contact_phone" class="required">Phone Number <span class="required">*</span></label>                            <span class="focus-border"></span>
+                            <div class="error"></div>
+                        </div>
+                        <div class="textarea-holder">
+                            <textarea class="effect" name="Contact[message]" id="Contact_message"></textarea>                            <label for="Contact_message" class="required">Comments <span class="required">*</span></label>                            <span class="focus-border"></span>
+                            <div class="error"></div>
+                        </div>
+
+                        <input class="button" type="submit" name="yt0" value="Send" />                        </form>                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+</div><!-- content -->
+
+        <!--Footer-->
+        <div id="footer">
+    <div class="grid">
+        <div class="full clearfix">
+            <ul class="footer-menu">
+                <li class="web">
+                    <a href="javascript: void(0)">WEBMAIL</a>
+                    <div class="webmail">
+                        <div class="holder">
+                            <form action="http://www.crownflourmills.com:2095/login/" method="post" target="_blank" class="clearfix">
+                                <input type="text" name="user" placeholder="User name"/>
+                                <input type="password" name="pass" placeholder="Password"/>
+                                <input type="submit" value="Submit" class="button"/>
+                            </form>
+                        </div>
+                    </div>
+                </li>
+<!--                <li><a href="/site/faq">FAQs</a></li>-->
+                <li><a href="/site/sitemap">SITEMAP</a></li>
+            </ul>
+
+            <div class="copyrights">
+                Designed By <a href="http://cleartag.com" target="_blank">Cleartag</a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- footer -->    </div>
+    <script>
+        (function(i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function() {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-80734457-37', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+
+<script type="text/javascript" src="/js/jquery.selectbox.min.js"></script>
+<script type="text/javascript" src="/js/slick.min.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+script.inputLabelAnimation()
+script.selectboxStyle()
+script.homeSlider()
+});
+/*]]>*/
+</script>
+</body>
+</html>
