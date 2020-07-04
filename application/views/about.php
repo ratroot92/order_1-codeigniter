@@ -68,7 +68,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <img src="<?php echo base_url('assets/images/icons/fb-icon.png')?>" alt="Facebook Crown Floor Mills"/>
             </a>
              <a href="<?php echo base_url('/index')?>" target="_blank">
-                <img src="<?php echo base_url('assets/images/icons/crownlogo.png')?>" alt="Crown Bake"/>
+                <img src="<?php echo base_url('assets/images/icons/logo2.png')?>" alt="Crown Bake"/>
             </a>
         </div>
         <a class="menu-icon" href="<?php echo base_url('/index')?>">
