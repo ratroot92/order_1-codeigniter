@@ -40,8 +40,8 @@ var script = {
         $('.home-slider').slick({
             slidesToShow: 1,
             dots: true,
-            arrows: false,
-            autoplay: false,
+            arrows: true,
+            autoplay: true,
             autoplaySpeed: 6000
         });
     },

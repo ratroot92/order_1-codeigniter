@@ -9,48 +9,48 @@
 
 @font-face {
   font-family: 'mplus-1p-regular';
-  src: url('../fonts/mplus-1p-regular.eot');
-  src: url('../fonts/mplus-1p-regular.woff2') format('woff2'),
-       url('../fonts/mplus-1p-regular.woff') format('woff'),
-       url('../fonts/mplus-1p-regular.ttf') format('truetype'),
-       url('../fonts/mplus-1p-regular.svg#mplus-1p-regular') format('svg'),
-       url('../fonts/mplus-1p-regular.eot?#iefix') format('embedded-opentype');
+  src: url('https://www.mukhtarflourmills.com/assets/fonts/mplus-1p-regular.eot');
+  src: url('https://www.mukhtarflourmills.com/assets/fonts/mplus-1p-regular.woff2') format('woff2'),
+       url('https://www.mukhtarflourmills.com/assets/fonts/mplus-1p-regular.woff') format('woff'),
+       url('https://www.mukhtarflourmills.com/assets/fonts/mplus-1p-regular.ttf') format('truetype'),
+       url('https://www.mukhtarflourmills.com/assets/fonts/mplus-1p-regular.svg#mplus-1p-regular') format('svg'),
+       url('https://www.mukhtarflourmills.com/assets/fonts/mplus-1p-regular.eot?#iefix') format('embedded-opentype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'mplus-1p-bold';
-  src: url('../fonts/mplus-1p-bold.eot');
-  src: url('../fonts/mplus-1p-bold.woff2') format('woff2'),
-       url('../fonts/mplus-1p-bold.woff') format('woff'),
-       url('../fonts/mplus-1p-bold.ttf') format('truetype'),
-       url('../fonts/mplus-1p-bold.svg#mplus-1p-bold') format('svg'),
-       url('../fonts/mplus-1p-bold.eot?#iefix') format('embedded-opentype');
+  src: url('https://www.mukhtarflourmills.com/assets/fonts/mplus-1p-bold.eot');
+  src: url('https://www.mukhtarflourmills.com/assets/fonts/mplus-1p-bold.woff2') format('woff2'),
+       url('https://www.mukhtarflourmills.com/assets/fonts/mplus-1p-bold.woff') format('woff'),
+       url('https://www.mukhtarflourmills.com/assets/fonts/mplus-1p-bold.ttf') format('truetype'),
+       url('https://www.mukhtarflourmills.com/assets/fonts/mplus-1p-bold.svg#mplus-1p-bold') format('svg'),
+       url('https://www.mukhtarflourmills.com/assets/fonts/mplus-1p-bold.eot?#iefix') format('embedded-opentype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'champagne';
-  src: url('../fonts/Champagne&Limousines.eot');
-  src: url('../fonts/Champagne&Limousines.woff2') format('woff2'),
-       url('../fonts/Champagne&Limousines.woff') format('woff'),
-       url('../fonts/Champagne&Limousines.ttf') format('truetype'),
-       url('../fonts/Champagne&Limousines.svg#Champagne&Limousines') format('svg'),
-       url('../fonts/Champagne&Limousines.eot?#iefix') format('embedded-opentype');
+  src: url('https://www.mukhtarflourmills.com/assets/fonts/Champagne&Limousines.eot');
+  src: url('https://www.mukhtarflourmills.com/assets/fonts/Champagne&Limousines.woff2') format('woff2'),
+       url('https://www.mukhtarflourmills.com/assets/fonts/Champagne&Limousines.woff') format('woff'),
+       url('https://www.mukhtarflourmills.com/assets/fonts/Champagne&Limousines.ttf') format('truetype'),
+       url('https://www.mukhtarflourmills.com/assets/fonts/Champagne&Limousines.svg#Champagne&Limousines') format('svg'),
+       url('https://www.mukhtarflourmills.com/assets/fonts/Champagne&Limousines.eot?#iefix') format('embedded-opentype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'champagne-bold';
-  src: url('../fonts/Champagne&Limousines-Bold.eot');
-  src: url('../fonts/Champagne&Limousines-Bold.woff2') format('woff2'),
-       url('../fonts/Champagne&Limousines-Bold.woff') format('woff'),
-       url('../fonts/Champagne&Limousines-Bold.ttf') format('truetype'),
-       url('../fonts/Champagne&Limousines-Bold.svg#Champagne&Limousines-Bold') format('svg'),
-       url('../fonts/Champagne&Limousines-Bold.eot?#iefix') format('embedded-opentype');
+  src: url('https://www.mukhtarflourmills.com/assets/fonts/Champagne&Limousines-Bold.eot');
+  src: url('https://www.mukhtarflourmills.com/assets/fonts/Champagne&Limousines-Bold.woff2') format('woff2'),
+       url('https://www.mukhtarflourmills.com/assets/fonts/Champagne&Limousines-Bold.woff') format('woff'),
+       url('https://www.mukhtarflourmills.com/assets/fonts/Champagne&Limousines-Bold.ttf') format('truetype'),
+       url('https://www.mukhtarflourmills.com/assets/fonts/Champagne&Limousines-Bold.svg#Champagne&Limousines-Bold') format('svg'),
+       url('https://www.mukhtarflourmills.com/assets/fonts/Champagne&Limousines-Bold.eot?#iefix') format('embedded-opentype');
   font-weight: normal;
   font-style: normal;
 }

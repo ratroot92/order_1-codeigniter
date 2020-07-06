@@ -46,8 +46,8 @@ class Home extends CI_Controller {
 
 	}
 
-	public function flourlist() {
-		$this->load->view("flourList");
+	public function order() {
+		$this->load->view("order");
 
 	}
 	public function mixeslist() {
@@ -56,6 +56,10 @@ class Home extends CI_Controller {
 	}
 	public function experts() {
 		$this->load->view("experts");
+
+	}
+	public function client() {
+		$this->load->view("client");
 
 	}
 }

@@ -40,37 +40,34 @@
     </div>
 </div>    <div id="page">
         <!--Header With Menu-->
-        <div id="header" class="">
+     <div id="header" class="">
     <div class="grid clearfix" style="width:1250px">
         <div class="logo">
-            <a href="/">
-                <img src="logo.png" alt="Crown Floor Mills"/>
+            <a href="<?php echo base_url('/index')?>">
+                <img src="<?php echo base_url('assets/images/logo2.png')?>" style="height:65px;width:80px;" alt="Crown Floor Mills"/>
             </a>
         </div>
         <div class="main-menu" style="width:1050px">
             <ul id="yw0">
-<li><a href="/about">About Us</a></li>
-<li><a href="/expertise">Our Expertise</a></li>
-<li><a href="/product">Our Products</a></li>
-<li><a href="/service">Our Services</a></li>
-<li><a href="http://www.mansourtradingcompany.com/careers/">Careers</a></li>
-<li><a href="http://www.crownflourmills.com/askourexperts.html">Ask Our Experts</a></li>
-<li><a href="/contact">Contact Us</a></li>
-<li><a href="http://www.crownbake.co/">Crown BAKE</a></li>
-<li id="fbIcon"><a target="_blank" href="https://www.facebook.com/crownflourmills/"><img src="icons/fb-icon-mobile.png" /></a></li>
-<li id="fbIcon"><a target="_blank" href="http://www.crownbake.co/"><img src="icons/crownlogo.png" /></a></li>
+            <li><a href="<?php echo base_url('about')?>">About Us</a></li>
+<li><a href="<?php echo base_url('/expertise')?>">Our Expertise</a></li>
+<li><a href="<?php echo base_url('/product')?>">Our Products</a></li>
+<li><a href="<?php echo base_url('/service')?>">Our Services</a></li>
+<li><a href="<?php echo base_url('/careers')?>">Careers</a></li>
+<li><a href="<?php echo base_url('/client')?>">Clients</a></li>
+<li><a href="<?php echo base_url('/contact')?>">Contact Us</a></li>
+<li id="fbIcon"><a target="_blank" href="<?php echo base_url('/index')?>"><img src="<?php echo base_url('assets/images/icons/fb-icon-mobile.png')?>" /></a></li>
+
 </ul>        </div>
         <div class="social" style="width:55px">
-            <a href="https://www.facebook.com/crownflourmills" target="_blank">
-                <img src="icons/fb-icon.png" alt="Facebook Crown Floor Mills"/>
+            <a href="<?php echo base_url('/index')?>" target="_blank">
+                <img src="<?php echo base_url('assets/images/icons/fb-icon.png')?>" alt="Facebook Crown Floor Mills"/>
             </a>
-             <a href="http://www.crownbake.co/" target="_blank">
-                <img src="icons/crownlogo.png" alt="Crown Bake"/>
+             <a href="<?php echo base_url('/index')?>" target="_blank">
+                <img src="<?php echo base_url('assets/images/logo2.png')?>" class="img-fluid" alt="Mukhtar Flour Mills"style="height:25px;width: 25px;"/>
             </a>
         </div>
-        <a class="menu-icon" href="javascript: void(0);">
-<!--            <img src="icons/menu-icon.png" alt="Crown Floor Mills"/>-->
-        </a>
+
     </div>
 </div>
 

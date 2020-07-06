@@ -40,7 +40,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
    <div class="container-fluid">
    <div class="row">
    <div class="col-md-12">
-   <div id="header" class="">
+     <div id="header" class="">
     <div class="grid clearfix" style="width:1250px">
         <div class="logo">
             <a href="<?php echo base_url('/index')?>">
@@ -52,25 +52,22 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <li><a href="<?php echo base_url('about')?>">About Us</a></li>
 <li><a href="<?php echo base_url('/expertise')?>">Our Expertise</a></li>
 <li><a href="<?php echo base_url('/product')?>">Our Products</a></li>
-<li><a href="<?php echo base_url('/flourlist')?>">Flour List</a></li>
 <li><a href="<?php echo base_url('/service')?>">Our Services</a></li>
 <li><a href="<?php echo base_url('/careers')?>">Careers</a></li>
-<li><a href="<?php echo base_url('/experts')?>">Ask Our Experts</a></li>
+<li><a href="<?php echo base_url('/client')?>">Clients</a></li>
 <li><a href="<?php echo base_url('/contact')?>">Contact Us</a></li>
 <li id="fbIcon"><a target="_blank" href="<?php echo base_url('/index')?>"><img src="<?php echo base_url('assets/images/icons/fb-icon-mobile.png')?>" /></a></li>
-<li id="fbIcon"><a target="_blank" href="<?php echo base_url('/index')?>"><img src="<?php echo base_url('assets/images/icons/crownlogo.png')?>" /></a></li>
+
 </ul>        </div>
         <div class="social" style="width:55px">
             <a href="<?php echo base_url('/index')?>" target="_blank">
                 <img src="<?php echo base_url('assets/images/icons/fb-icon.png')?>" alt="Facebook Crown Floor Mills"/>
             </a>
              <a href="<?php echo base_url('/index')?>" target="_blank">
-                <img src="<?php echo base_url('assets/images/icons/crownlogo.png')?>" alt="Crown Bake"/>
+                <img src="<?php echo base_url('assets/images/logo2.png')?>" class="img-fluid" alt="Mukhtar Flour Mills"style="height:25px;width: 25px;"/>
             </a>
         </div>
-        <a class="menu-icon" href="<?php echo base_url('/index')?>">
-<!--            <img src="<?php echo base_url('assets/images/icons/menu-icon.png')?>" alt="Crown Floor Mills"/>-->
-        </a>
+
     </div>
 </div>
       </div>
